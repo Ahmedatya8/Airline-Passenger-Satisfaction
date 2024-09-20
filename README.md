@@ -5,13 +5,13 @@ This project focuses on predicting bike rental counts (hourly or daily) based on
 - Exploratory Data Analysis (EDA): Insights into the dataset using visualization and statistical summaries.
 - Feature Engineering: Preprocessing and transforming the data to improve model performance.
 - Modeling: Training various machine learning models to predict bike rental counts, including:
-	- Linear Regression
-	- Decision Tree Regressor
-	- Random Forest Regressor
-	- Support Vector Regressor (SVR)
-	- Gradient Boosting Regressor
-	- XGBoost Regressor
-	- K-Nearest Neighbors Regressor (KNN)
+	- **Linear Regression**
+	- **Decision Tree Regressor**
+	- **Random Forest Regressor**
+	- **Support Vector Regressor (SVR)**
+	- **Gradient Boosting Regressor**
+	- **XGBoost Regressor**
+	- **K-Nearest Neighbors Regressor (KNN)**
 - Model Evaluation: Assessing model performance using metrics like R² score and Mean Absolute Error (MAE).
 - Hyperparameter Tuning: Optimizing model performance using GridSearchCV or RandomizedSearchCV to fine-tune the parameters of models such as Random Forest, Gradient Boosting, and XGBoost.
 ## Installation:
