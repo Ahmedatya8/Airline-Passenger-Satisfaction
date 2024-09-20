@@ -52,6 +52,8 @@ The following machine learning models were used:
 - **Support Vector Regressor**
 - **Gradient Boosting Regressor**
 - **XGBoost Regressor**
+## Hyperparameter Tuning:
+- To optimize model performance, hyperparameter tuning was performed using GridSearchCV and RandomizedSearchCV. The following parameters were tuned:
 ## Evaluation:
 The models are evaluated using several metrics, including:
 - R² Score: Measures how well the model predicts the variance in the target.
