@@ -13,7 +13,7 @@ This project focuses on predicting bike rental counts (hourly or daily) based on
 	- XGBoost Regressor
 	- K-Nearest Neighbors Regressor (KNN)
 - Model Evaluation: Assessing model performance using metrics like R² score and Mean Absolute Error (MAE).
-- Hyperprameter Tuning.
+- Hyperparameter Tuning: Optimizing model performance using GridSearchCV or RandomizedSearchCV to fine-tune the parameters of models such as Random Forest, Gradient Boosting, and XGBoost.
 ## Installation:
 To install the required libraries for this project, run the following commands:
 ``` python
